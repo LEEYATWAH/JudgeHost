@@ -1,0 +1,8 @@
+server:
+  port: 8080
+
+judge-authorization:
+  users-id: lyh
+  user-secret: lyh
+  expired-time: 14000
+  secret-key: secret
